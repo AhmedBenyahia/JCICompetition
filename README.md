@@ -1,6 +1,6 @@
-# getfund-laravel
-A crowdfunding platform. Its based on laravel PHP framework with powerfull features.
-
+This Project is part of a 24H Competition organized by JCI Morij Tunisie, the subject was the "Renewable energy"
+Web used templtae based on laravel to developer a platform of crowdfunding for energie project 
+**********************************
 The Laravel framework has a few system requirements. Read More
 
     PHP >= 5.6.4
